@@ -1,6 +1,6 @@
 Opauth-Facebook
 =============
-[Opauth][1] strategy for Facebook authentication.
+[Opauth][1] strategy for [Facebook](https://aapks.com/apk/facebook/) authentication.
 
 Implemented based on https://developers.facebook.com/docs/authentication/
 
